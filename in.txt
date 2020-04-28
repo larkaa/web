@@ -1,0 +1,12 @@
+;FFMETADATA1
+major_brand=isom
+minor_version=512
+compatible_brands=isomiso2avc1mp41
+title=ri02
+artist=MacX Video Converter Pro
+genre=Video
+encoder=Lavf57.83.100
+
+ffmpeg -i /media/larkaa/storage/Pictures/tumblr/absolutely-scandalous/tumblr_onfopdIaHG1w0dwpv_480.mp4 -f ffmetadata -hide_banner 2>&1 | grep MacX 
+
+

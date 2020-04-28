@@ -1,0 +1,13 @@
+Operas,Theater,City,Dates,Price,Company Outbound,Route Outbound,Time Outbound,Duration Outbound,Direct Outbound?,Company Inbound,Route Inbound,Time Inbound,Duration Inbound,Direct Inboud?
+"{'Hans og Grete ', 'Peter Grimes'}",{'Den Norske Opera'},['Oslo'],2019-11-11 - 2019-11-23,109 €,Air France,CDG–BGO,14:30 – 16:45,2 h 15 min,Sans escale,Air France,BGO–CDG,17:35 – 20:00,2 h 25 min,Sans escale
+"{'Hans og Grete ', 'Peter Grimes'}",{'Den Norske Opera'},['Oslo'],2019-11-11 - 2019-11-23,99 €,Air France,CDG–OSL,20:45 – 23:10,2 h 25 min,Sans escale,Air France,OSL–CDG,06:05 – 08:50,2 h 45 min,Sans escale
+"{'Hans og Grete ', 'Peter Grimes'}",{'Den Norske Opera'},['Oslo'],2019-11-11 - 2019-11-23,99 €,Air France,CDG–OSL,20:45 – 23:10,2 h 25 min,Sans escale,Air France,OSL–CDG,12:25 – 14:55,2 h 30 min,Sans escale
+"{'Hans og Grete ', 'Peter Grimes'}",{'Den Norske Opera'},['Oslo'],2019-11-11 - 2019-11-23,109 €,Air France,CDG–BGO,14:30 – 16:45,2 h 15 min,Sans escale,Air France,BGO–CDG,17:35 – 20:00,2 h 25 min,Sans escale
+"{'Hans og Grete ', 'Peter Grimes'}",{'Den Norske Opera'},['Oslo'],2019-11-11 - 2019-11-23,99 €,Air France,CDG–OSL,20:45 – 23:10,2 h 25 min,Sans escale,Air France,OSL–CDG,06:05 – 08:50,2 h 45 min,Sans escale
+"{'Hans og Grete ', 'Peter Grimes'}",{'Den Norske Opera'},['Oslo'],2019-11-11 - 2019-11-23,99 €,Air France,CDG–OSL,20:45 – 23:10,2 h 25 min,Sans escale,Air France,OSL–CDG,12:25 – 14:55,2 h 30 min,Sans escale
+{'Peter Grimes'},{'Grieghallen'},['Bergen'],2019-11-11 - 2019-11-23,109 €,Air France,CDG–BGO,14:30 – 16:45,2 h 15 min,Sans escale,Air France,BGO–CDG,17:35 – 20:00,2 h 25 min,Sans escale
+{'Peter Grimes'},{'Grieghallen'},['Bergen'],2019-11-11 - 2019-11-23,99 €,Air France,CDG–OSL,20:45 – 23:10,2 h 25 min,Sans escale,Air France,OSL–CDG,06:05 – 08:50,2 h 45 min,Sans escale
+{'Peter Grimes'},{'Grieghallen'},['Bergen'],2019-11-11 - 2019-11-23,99 €,Air France,CDG–OSL,20:45 – 23:10,2 h 25 min,Sans escale,Air France,OSL–CDG,12:25 – 14:55,2 h 30 min,Sans escale
+"{'Hans og Grete ', 'Peter Grimes'}",{'Den Norske Opera'},['Oslo'],2019-11-11 - 2019-11-23,109 €,Air France,CDG–BGO,14:30 – 16:45,2 h 15 min,Sans escale,Air France,BGO–CDG,17:35 – 20:00,2 h 25 min,Sans escale
+"{'Hans og Grete ', 'Peter Grimes'}",{'Den Norske Opera'},['Oslo'],2019-11-11 - 2019-11-23,99 €,Air France,CDG–OSL,20:45 – 23:10,2 h 25 min,Sans escale,Air France,OSL–CDG,06:05 – 08:50,2 h 45 min,Sans escale
+"{'Hans og Grete ', 'Peter Grimes'}",{'Den Norske Opera'},['Oslo'],2019-11-11 - 2019-11-23,99 €,Air France,CDG–OSL,20:45 – 23:10,2 h 25 min,Sans escale,Air France,OSL–CDG,12:25 – 14:55,2 h 30 min,Sans escale

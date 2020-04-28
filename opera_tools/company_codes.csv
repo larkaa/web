@@ -1,0 +1,2000 @@
+id,theater
+1,National Theatre of Opera and Ballet
+2,A Spendiarian Opera and Ballet National Academic Theatre
+3,Buenos Aires Lírica
+4,Juventus Lyrica
+5,Teatro Colón
+6,Austrian Baroque Connection
+7,Bregenzer Festpiele
+8,Brucknerfest Linz
+9,Burgarena Reinsberg
+10,Carinthischer Sommer
+11,Donau Festwochen
+12,Feldkirch Festival
+13,Festival Retz
+15,Hans Gabor Belvedere Singing Competition
+16,Haydn Festival Eisenstadt
+17,Innsbrucker Festwochen der Alten Musik
+18,Jennersdorf Festivalsommer
+19,Klangforum Wien
+21,Landestheater Linz
+22,Lehár Festival Bad Ischl
+23,Mozarteum Salzburg
+24,Musik Theater Schönbrunn
+25,Musikwerkstatt Wien
+26,Neue Oper Wien
+27,Oper Burg Gars
+28,Oper Graz
+29,Oper Klosterneuburg
+30,Operettensommer Kufstein
+32,OsterKlang Wien
+33,Osterfestspiele Salzburg
+34,Richard Wagner Festival Wels
+35,Salzburger Festspiele
+36,Salzburger Landestheater
+38,Schlossfestspiele Langenlois
+40,Stadttheater Baden
+41,Stadttheater Klagenfurt
+42,Steirischer Herbst
+43,Styriarte
+44,Theater an der Wien
+45,Tiroler Festspiele Erl
+46,Tiroler Landestheater
+47,Volksoper Wien
+48,Vorarlberger Landestheater
+49,Wiener Festwochen
+50,Wiener Kammeroper
+51,Wiener Staatsoper
+52,Wiener Taschenoper
+53,sireneOperntheater
+54,Adelaide Festival
+55,Australian Festival of Chamber Music
+56,Melbourne City Opera
+57,Melbourne Festival
+58,Melbourne Opera
+59,Opera Australia
+60,Opera Hunter
+61,Opera Queensland
+62,Opera at Jimbour
+63,Pacific Opera
+64,Pinchgut Opera
+65,Rockdale Opera
+66,State Opera of South Australia
+67,Stopera
+68,Victorian Opera
+69,West Australian Opera
+70,Azerbaijan State Academic Opera and Ballet Theatre
+71,Sarajevo National Theatre
+72,Festival Idée Fixe
+73,I Solisti del Vento
+74,Klara Festival
+75,LOD
+76,La Monnaie/De Munt
+77,Ministry of Operatic Affairs
+78,Musiques Nouvelles
+79,Muziektheater Transparant
+80,Opera Vlaanderen
+81,Opéra Royal de Wallonie
+82,Vlaams Muziek Theater
+83,Zomeropera Alden Biesen
+84,kunstenFESTIVALdesArts
+85,Chamber Opera Blagoevgrad
+86,Opera Open
+88,Sofia Opera
+89,State Opera Bourgas
+90,State Opera Plovdiv
+91,State Opera Rousse
+92,State Opera Stara Zagora
+93,State Opera Varna
+94,Varna Summer
+95,Festival Amazonas de Ópera
+96,Festival de Ópera do Theatro da Paz
+97,Palácio das Artes Belo Horizonte
+98,Teatro Alfa
+99,Theatro Municipal de São Paulo
+100,Theatro Municipal do Rio de Janeiro
+101,Theatro São Pedro
+102,Theatro da Paz
+103,Bolshoi Theatre of Belarus
+104,Burnaby Lyric Opera
+105,Calgary Opera
+106,Canadian Children's Opera Company
+107,Canadian Opera Company
+108,Capital City Opera
+109,Chants Libres
+110,City Opera Vancouver
+111,Dalhousie University Dept of Music
+112,Edmonton Opera
+113,FestivalOpéra de Saint-Eustache
+114,L'Opéra de Montréal
+115,Lyrichorega
+116,Manitoba Opera
+117,National Arts Centre
+118,Opera Atelier
+119,Opera Hamilton
+121,Opera Lyra Ottawa
+122,Opera Mississauga
+123,Opera Saskatchewan
+124,Opera da Camera
+125,Opera on the Avalon
+126,Opéra Immédiat
+127,Opéra de Québec
+128,Pacific Opera Victoria
+129,Queen of Puddings Music Theatre
+130,Saskatoon Opera
+131,Soundstreams
+132,Summer Opera Lyric Theatre
+133,Tapestry Opera
+134,The Banff Centre
+135,Toronto Operetta Theatre
+136,Vancouver Academy of Music
+137,Vancouver Concert Opera
+138,Vancouver New Music
+139,Vancouver Opera
+140,du Maurier World Stage Festival
+141,AlterEgo
+142,Choeur Pro Arte
+143,Classic Openair
+144,Ensemble Orlando
+146,Festival International de Musique et d'Art Lyrique
+147,Festival La Perla
+148,Festival Stand'été
+149,Festival d'Opéra Avenches
+150,Festspiele Zürich
+151,Gartenoper Langenthal
+153,Il Pomo d'Oro
+154,Jeune Opéra Compagnie
+155,Konzert Theater Bern
+156,L'Avant-Scène Opéra
+157,Les Jardins Musicaux
+158,Lucerne Festival im Sommer
+159,Lucerne Festival zu Ostern
+160,Luzerner Theater
+161,Lyrica
+162,Nimrod Opera Zurich
+163,Oper Schenkenberg
+164,Oper Schloss Hallwyl
+165,Oper im Knopfloch
+166,Opera Basel
+167,Opera Obliqua
+168,Operettenbühne Hombrechtikon
+169,Opernhaus Zürich
+170,Opernverein Zürich
+171,Opéra Louise
+172,Opéra St Moritz
+173,Opéra de Chambre de Genève
+174,NOF - Nouvel Opéra Fribourg - Neue Oper Freiburg
+175,Opéra de Lausanne
+176,Opéra des champs
+177,Opéra-Studio de Genève
+178,Opéra-Théâtre
+179,Solothurn Classics
+180,St Galler Festspiele
+182,Theater Basel
+183,Theater Orchester Biel Solothurn
+184,Théâtre de Vevey
+185,Théâtre du Passage
+186,Verbier Festival
+187,Ópera Nacional de Chile
+188,Teatro del Lago Frutillar
+189,Beijing Music Festival
+190,National Centre for the Performing Arts
+191,Shanghai Opera House
+192,Teatro de Bellas Artes de Bogota
+193,Ópera de Colombia
+194,Teatro Nacional de Costa Rica
+195,Teatro Lírico Nacional de Cuba
+196,Pafos Aphrodite Festival
+197,Divadlo F X Šaldy Liberec
+199,Dětská Opera Praha
+200,Ensemble Damian
+201,J K Tyl Theatre
+202,Janáček Brno International Festival
+204,Jihočeského divadelního festivalu
+205,Loket Cultural Summer
+207,Moravian Theatre Olomouc
+208,ND Brno
+209,National Moravian-Silesian Theatre
+210,National Theatre Prague
+211,New Opera Days Ostrava
+212,North Bohemian Theatre of Opera and Ballet
+213,Nové operetní Studio
+214,Prague Spring Festival
+216,Slezské divadlo
+217,Smetana Opera Festival
+218,South Bohemian Theatre
+219,State Opera
+220,Aalto-Musiktheater Essen
+221,Anhaltisches Theater Dessau
+222,Antikenfestspiele Trier
+223,Bad Hersfelder Opernfestspiele
+224,Badisches Staatstheater Karlsruhe
+225,Balthasar-Neumann-Chor und -Ensemble
+226,Balthasar-Neumann-Ensemble
+227,Barock-Tage Dresden
+228,Bayer Kultur
+229,Bayerische Kammeroper Veitshöchheim
+230,Bayerische Staatsoper
+231,Bayerische Theaterakademie August Everding
+232,Bayreuther Barock
+233,Bayreuther Festspiele
+234,Beethovenfest
+235,Berliner Kammeroper
+236,Berliner Operngruppe
+237,Brandenburger Theater
+239,Cadenza Barocktage Berlin
+240,Carl Orff Festspiele
+241,Choriner Opernsommer
+242,Concert Royal Köln
+243,Concerto Köln
+244,Der Ring in Minden
+245,Deutsch-Sorbisches Volkstheater Bautzen
+246,Deutsche Oper Berlin
+247,Deutsche Oper am Rhein
+248,Deutsches Nationaltheater und Staatskapelle Weimar
+249,DomStufen-Festspiele
+250,Dresdner Musikfestspiele
+251,Ekhof Festival
+252,Ensemble Modern
+253,Neue Eutiner Festspiele
+254,Festspielhaus Baden-Baden
+255,Freiburger Barockorchester
+256,Freies Landestheater Bayern
+257,Gewandhaus Leipzig
+258,Gluck Opern-Festspiele Nürnberg
+259,Hamburger Kammeroper
+260,Hans Otto Theater
+262,Heidelberger Schlossfestspiele
+263,Herbstfestspiele Baden-Baden
+264,Herrenchiemsee Festspiele
+265,Hessisches Staatstheater Wiesbaden
+266,Hochschule für Musik und Theater Hamburg
+268,Händel-Festspiele Karlsruhe
+269,Internationale Händel-Festspiele Göttingen
+271,Internationale Händelfestspiele Karlsruhe
+272,Internationale Maifestspiele
+273,Junge Oper Stuttgart
+274,KNM Berlin
+275,Kammeroper Frankfurt
+276,Kammeroper Konstanz
+277,Kammeroper Köln
+278,Kammeroper München
+279,Kammeroper Schloss Rheinsberg
+280,Kissinger Sommer Festival
+281,Klangvokal Musikfestival Dortmund
+282,Komische Oper Berlin
+283,KunstForumHellerau
+284,Kurt-Weill-Festival
+285,Landesbühnen Sachsen
+286,Landestheater Coburg
+287,Landestheater Detmold
+288,Landestheater Eisenach
+289,Landestheater Mecklenburg
+290,Landestheater Niederbayern
+291,Lautten Compagney Berlin
+292,Ludwigsburger Schlossfestspiele
+293,MaerzMusik
+294,Magdeburger Telemann-Festtage
+295,Mainfranken Theater Würzburg
+297,Mecklenburgisches Staatstheater Schwerin
+298,Meininger Staatstheater
+299,Mittelsächsisches Theater
+300,de.Monschau Klassik
+301,Internationales Musikfest Hamburg
+302,Musikfest Berlin
+303,Musikfest Bremen
+304,Musikfestspiele Potsdam Sanssouci
+305,Musiktheater im Revier
+306,Münchener Biennale
+307,Staatstheater am Gärtnerplatz
+308,Münchner Opernfestspiele
+309,Nationaltheater Mannheim
+310,Neuburger Kammeroper
+311,Neuköllner Oper
+312,Nordharzer Städtebundtheater
+313,Offenbach Festival
+314,Oldenburgisches Staatstheater
+315,Oper Frankfurt
+316,Oper Halle
+317,Oper Köln
+318,Oper Leipzig
+319,Opera Incognita
+320,Opernbühne Bad Aibling
+321,Immling Festival
+322,Opernfestspiele Heidenheim
+323,Opernloft im Alten Fährterminal Altona
+324,Osterfestspiele Baden-Baden
+325,Pfalztheater Kaiserslautern
+326,Pfingstfestspiele Baden-Baden
+327,Potsdamer Winteroper
+328,Putbus Festspiele
+329,Richard Strauss Festival
+331,Richard-Strauss-Tage Dresden
+332,Rossini in Wildbad
+333,Theater Rudolstadt
+334,Ruhrtriennale
+335,Saarländisches Staatstheater
+336,Schleswig-Holstein Musik Festival
+337,Schleswig-Holsteinische Landestheater
+338,Schlossfestspiele Marburg
+339,Schlossfestspiele Schwerin
+340,Schlossfestspiele Zwingenberg
+341,Schwetzingen Festspiele
+342,Seefestspiele Berlin
+343,Sommer Oper Bamberg
+344,Sommerfestspiele Baden-Baden
+345,Sommerfestspiele Xanten
+346,Staatsoper Hamburg
+347,Staatsoper Hannover
+348,Staatsoper Unter den Linden
+349,Staatsoperette Dresden
+350,Staatstheater Braunschweig
+351,Staatstheater Cottbus
+352,Staatstheater Darmstadt
+353,Staatstheater Kassel
+354,Staatstheater Mainz
+355,Staatstheater Nürnberg
+357,Stadttheater Bremerhaven
+358,Stadttheater Fürth
+359,Stadttheater Giessen
+360,Stadttheater Osnabrück
+362,Sächsische Staatsoper
+363,Theater Aachen
+364,Theater Augsburg
+365,Theater Bielefeld
+366,Theater Bonn
+367,Theater Bremen
+368,Theater Chemnitz
+369,Theater Dortmund
+370,Theater Erfurt
+372,Theater Freiburg
+373,Gerhart-Hauptmann-Theater
+374,Theater Hagen
+375,Theater Heilbronn
+376,Theater Hof
+377,Theater Kiel
+378,Theater Koblenz
+379,Theater Lübeck
+380,Theater Lüneburg
+381,Theater Magdeburg
+382,Theater Nordhausen
+383,Theater Oberhausen
+384,Theater Pforzheim
+385,Theater Plauen-Zwickau
+386,Theater Regensburg
+387,Theater Trier
+388,Theater Ulm
+389,Theater Vorpommern
+391,Theater für Niedersachsen
+393,Thurn und Taxis Schlossfestspiele
+394,Schlossfestspiele Sondershausen
+395,Volkstheater Rostock
+396,Wernigeröder Schlossfestspiele
+397,Wuppertaler Bühnen
+398,Zeitgenössische Oper Berlin
+399,Aalborg Opera Festival
+400,Aarhus Sommeropera
+401,Concerto Copenhagen
+402,CPH Opera Festival
+403,Den Fynske Opera
+404,Den Jyske Opera
+405,Den Ny Opera
+406,Den Rullende Opera
+407,Det Jyske Musikkonservatorium
+408,En Opera
+409,GuidOpera
+410,Non Tardar
+411,Opera Hedeland
+412,Opera Nord
+413,Operaen i Midten
+414,Royal Danish Opera Academy
+415,Royal Danish Opera
+416,Birgitta Festival
+417,Estonian National Opera
+418,Pärnu International Opera Music Festival
+419,Theatre Vanemuine
+420,Cairo Opera
+421,ABAO
+422,AGAO
+423,Amics de l'Opera de Sabadell
+424,Amigos de la Ópera de A Coruña
+425,Amigos de la Ópera de Vigo
+426,Associació Cultural Musical Pere Josep Cañellas
+427,Baluarte
+428,Camerata Lírica de España
+429,Festival Castell de Peralada
+430,Festival Ibérico de Música de Badajoz
+431,Festival Internacional de Merida
+432,Festival Internacional de Música y Danza de Granada
+433,Festival Internacional de Santander
+434,Festival Mozart Coruña
+435,Festival de Música Clàssica Castell Santa Florentina
+436,Festival de Música de Canarias
+437,Ópera de Tenerife
+438,Festival del Mediterrani
+439,Galiopera
+440,Galiôpera
+441,Gran Teatre del Liceu
+442,Liceo de Salamanca
+443,Operadhoy
+444,Opus Lírica
+445,Palau de les Arts
+446,Pórtico do Paraíso
+447,Quincena Musical
+448,Red de Teatros Públicos
+449,Teatre Principal de Maó
+450,Teatre Principal de Palma
+451,Teatro Arriaga Bilbao
+452,Teatro Auditorio de San Lorenzo de El Escorial
+453,Teatro Cervantes Malaga
+454,Teatro Real de Madrid
+455,Teatro Villamarta
+456,Teatro de la Maestranza
+457,Teatro de la Zarzuela
+458,Teatros del Canal
+459,Òpera de butxaca i Nova Creacions
+460,Ópera de Las Palmas
+461,Ópera de Madrid
+462,Ópera de Oviedo
+463,Finnish Chamber Opera
+464,Finnish National Opera
+465,Gergiev Festival Mikkeli
+466,Helsinki Festival
+467,West Coast Kokkola Opera
+468,Musica nova Helsinki
+469,Musiikkiteattri Kapsäkki
+470,Ooppera Skaala
+471,Savonlinna Opera Festival
+472,Sibelius Academy Opera
+473,Suomalainen Kamariooppera / Finnish Chamber Opera
+476,West Coast Kokkola Opera
+477,Académie baroque européenne d'Ambronay
+478,Académie européenne de musique
+480,Anthéa
+481,Arcal
+482,Atelier Lyrique de Tourcoing
+483,Athénée Théâtre Louis-Jouvet
+484,Biennale Massenet
+485,Biennale Musiques en Scène
+486,Centre lyrique Clermont-Auvergne
+487,Chorégies d'Orange
+488,Cité de la Musique-Philharmonie
+489,Concours International de Chant
+490,Ensemble 2e2m
+491,Ensemble Justiniana
+492,Ensemble Matheus
+493,Ensemble Pygmalion
+494,Festival International d'Opéra Baroque de Beaune
+495,Festival Lyrique de Saint-Céré
+496,Festival d'Aix en Provence
+497,Festival d'Ambronay
+498,Festival d'Operettes Aix-les-Bains
+501,Festival de Lacoste
+502,Festival de Radio France et Montpellier
+504,Festival de Sablé sur Sarthe
+505,Festival de Saint-Denis
+506,La Grande Ecurie et la Chambre du Roy
+507,La Péniche Opéra
+508,Le Balcon
+509,Le Concert Spirituel
+510,Le Concert d'Astrée
+511,Le Pin Galant
+512,Les 2 Scènes
+513,Les Talens Lyriques
+514,Les Brigands
+515,Les Musiciens du Louvre Grenoble
+516,Les Paladins
+517,Les Soirées Lyriques de Gigondas
+519,Lyrique-en-mer
+520,MC93 Bobigny
+521,ManiFeste
+522,Midsummer Festival
+523,Musica
+524,Musiques au coeur d'Antibes
+525,Musiques à la Chabotterie
+526,Musée d'Orsay
+527,Nuits Lyriques en Marmandais
+528,Opera Fuoco
+529,Opéra 3
+530,Opéra Grand Avignon
+531,Opéra de Marseille
+532,Opéra National de Bordeaux
+533,Opéra National de Montpellier
+534,Opéra National de Paris
+535,Opéra National du Rhin
+536,Opéra Nice Côte d'Azur
+537,Opéra Royal de Versailles
+538,Opéra Théâtre de Saint-Étienne
+539,Opéra de Baugé
+540,Opéra de Dijon
+541,Opéra de Lille
+542,Opéra de Lyon
+543,Opéra de Massy
+545,Opéra de Poche
+546,Opéra de Reims
+547,Opéra de Rennes
+548,Opéra de Rouen Normandie
+549,Opéra de Toulon
+550,Opéra de Tours
+551,Opéra de Vichy
+552,Opéra des Landes
+553,Opéra du Jour
+554,Opéra en Plein Air
+555,Opéra national de Lorraine
+556,Opéra Éclaté
+557,Opéra Comique
+559,Opéra-Théâtre de Metz Métropole
+560,Pocket Lyrique
+561,Salle Pleyel
+562,Soirées Lyriques de Sanxay
+563,Théâtre Charles Dullin
+564,Théâtre Français de la Musique
+565,Théâtre Municipal de Bastia
+567,Théâtre Roger Barat
+568,Théâtre Musical de Lyon
+569,Théâtre de Caen
+571,Théâtre de Fontainebleau
+572,Théâtre des Bouffes du Nord
+573,Théâtre des Champs-Elysées
+574,Théâtre du Capitole
+575,Théâtre du Châtelet
+576,Tbilisi Z Paliashvili Opera and Ballet State Theatre
+577,Athens-Epidaurus Festival
+578,Greek National Opera
+579,Megaron
+580,Opera of Thessaloniki
+581,Hong Kong Arts Festival
+582,Opera Hong Kong
+583,Dubrovnik Festival
+584,HNK Ivana pl Zajca Rijeka
+585,HNK Osijek
+586,HNK Split
+587,HNK Varaždin
+588,HNK Zagreb
+589,Music Biennale Zagreb
+590,Splitsko Ljeto Festival
+591,Armel Festival and Competition
+592,Budapest Operetta Theatre
+593,Budapest Spring Festival
+594,Budapest Summer Festival
+595,Csokonai Színház
+596,Gy&odblac;r National Theatre
+597,Hungarian State Opera
+598,International Opera Festival Miskolc
+599,Miskolc National Theatre
+600,Moltopera
+601,National Theatre of Pécs
+602,Open-Air Festival Szeged
+603,Szeged National Theatre
+605,Cork Operatic Society
+606,Irish Youth Opera
+608,Loughcrew Garden Opera
+609,Lyric Opera
+610,OTC Young Associate Artists
+611,Opera 2005
+612,Opera Ireland
+613,Opera Theatre Company
+614,Royal Irish Academy of Music
+615,The Crash Ensemble
+616,Wexford Festival Opera
+617,Wide Open Opera
+618,Caesarea Festival
+619,Israeli Opera
+620,Masada Festival
+621,Islenska Operan
+622,Reykjavík Arts Festival
+623,Academia Montis Regalis
+624,Accademia Bizantina
+625,Accademia Musicale Chigiana
+626,Accademia Nazionale di Santa Cecilia
+627,Accademia di Montegral
+628,Arena di Verona Opera Festival
+629,Associazione In Canto
+630,Bergamo Musica Festival
+631,Cantiere Internazionale d'Arte
+632,Coin du Roi
+633,Compagnia Corrado Abbati
+634,Ente Concerti Marialisa de Carolis
+635,Europa Musica
+636,Festival Internazionale dell'Operetta
+637,Festival Pergolesi Spontini
+638,Festival Pucciniano
+639,Festival Verdi
+640,Festival dei Due Mondi
+641,Festival della Valle d'Itria
+642,Fondazione Arena di Verona
+643,Fondazione Petruzzelli
+644,Fondazione Teatri di Piacenza
+646,I Teatri di Reggio Emilia
+647,I Turchini
+648,Il Giardino Armonico
+649,LTL Opera Studio
+650,La Biennale di Venezia
+651,La Fenice
+652,La Venexiana
+653,Lirica in Piazza
+654,Luglio Musicale Trapanese
+655,MITO Settembre Musica
+656,Macerata Opera Festival
+657,Festival del Maggio Musicale Fiorentino
+658,Modo Antiquo
+659,Musica Nel Chiostro
+660,Fondazione Haydn di Bolzano e Trento
+661,Opera Academy Verona
+662,Opera Barga
+663,Opera Futura
+664,Opera Giocosa
+665,Fondazione del Teatro del Maggio Musicale Fiorentino
+666,Opera di Genova
+667,Operadomani
+668,Operaestate Festival Veneto
+669,Pan Opera Festival
+670,Piccolo Opera Festival di Friuli Venezia Giulia
+671,Ravenna Festival
+672,Rossini Opera Festival
+673,SOLTI snc
+674,San Carlo Opera Festival
+675,Santa Cecilia Opera Studio
+676,Scatola Sonora
+677,Settimane Musicali al Teatro Olimpico
+678,Taormina Arte
+679,Teatro Coccia
+680,Teatro Comunale Alighieri di Ravenna
+682,Teatro Comunale di Bologna
+683,Teatro Comunale di Ferrara
+684,Teatro Comunale di Modena
+685,Teatro Comunale di Treviso
+686,Fondazione Teatro Donizetti
+687,Teatro Fraschini di Pavia
+688,Teatro G B Pergolesi
+689,Teatro Goldoni
+690,Teatro Grande di Brescia
+691,Teatro Lirico Sperimentale di Spoleto
+692,Teatro Lirico di Cagliari
+693,Teatro Massimo Bellini
+694,Teatro Massimo di Palermo
+695,Teatro Politeama Greco
+696,Teatro Ponchielli di Cremona
+697,Teatro Regio di Torino
+698,Teatro Rendano di Cosenza
+699,Teatro Rossini di Lugo
+700,Teatro Sociale di Como - AsLiCo
+701,Teatro Sociale di Mantova
+702,Teatro Sociale di Rovigo
+703,Teatro Verdi di Trieste
+705,Teatro Vittorio Emanuele di Messina
+706,Teatro alla Scala
+707,Teatro del Giglio
+708,Teatro dell'Opera di Roma
+709,Teatro delle Muse
+710,Teatro di Pisa
+711,Teatro di San Carlo
+712,TéathronMusikè
+713,Un'Isola di Musica
+714,Venti Lucenti
+715,Biwako Hall
+716,New National Theatre Tokyo
+717,Nissay Theatre
+718,Saito Kinen Festival
+719,Seiji Ozawa Matsumoto Festival
+720,Kyrgyz National Maldybaev Opera
+721,Daegu International Opera Festival
+722,Daegu Opera House
+723,Korea National Opera
+724,National Opera
+725,Seoul Metropolitan Opera
+727,Astana Opera
+728,Al Bustan Festival
+729,Operettenbühne Vaduz
+730,Opernverein Vaduz
+731,Kaunas State Musical Theatre
+732,Klaipėda State Musical Theatre
+733,Lithuanian National Opera and Ballet Theatre
+734,Vilnius City Opera
+735,Vilnius Festival
+736,Festival de Wiltz
+737,Théâtres de la Ville de Luxembourg
+738,luxembourg festival
+739,Latvian National Opera
+740,Riga Opera Festival
+741,Sigulda Opera Festival
+742,Opéra de Monte-Carlo
+743,Chisinau Opera
+744,Macedonian Opera and Ballet
+745,Festival Internacional de Música de Macau
+746,Instituto Cultural Macau
+747,Festival Mediterranea
+748,Teatru Manoel
+749,Teatru tal-Opra Aurora
+750,Festival Internacional Cervantino
+751,Ópera de Bellas Artes
+752,Ópera de León
+753,Barokopera Amsterdam
+754,Belcanto Festival Dordrecht
+755,Conservatorium Maastricht
+756,De Nationale Opera
+757,Diamantfabriek
+758,Dutch National Opera Academy
+759,HET Symfonieorkest
+760,Het Concertgebouw
+761,Holland Festival
+762,Holland Opera
+763,I Piccoli Olandesi
+764,Internationale Opera Producties
+765,KamerOperaProject
+766,Kameroperahuis
+767,Muziektheater De Helling
+768,NTR ZaterdagMatinee
+770,Nederlandse Reisopera
+771,Nederlands KamerOpera Festival
+772,New Company
+773,Onafhankelijk Toneel/ Opera OT
+774,Opera OT
+775,Opera Studio Nederland
+776,Opera Trionfo
+777,Opera Zuid
+778,Opera2day
+779,Operadagen Rotterdam
+780,Rotterdam Philharmonic Gergiev Festival
+781,Theaterfestival De Parade
+782,Veenfabriek
+783,VocaalLAB
+784,WILco
+785,Bergen International Festival
+786,Bergen National Opera
+787,Den Norske Opera
+788,Festspillene i Nord-Norge
+789,Mimì Goes Glamping
+790,Nordlysfestivalen
+791,Nordnorsk Opera
+792,Opera Bergen
+793,Opera Nordfjord
+794,Opera Sør
+795,Opera Trøndelag
+796,Opera di Setra
+797,Opera Østfold
+798,Operaen i Kristiansund
+799,OscarsborgOperaen
+800,Oslo Operafestival
+801,Riksteatret
+802,RingsakerOperaen
+803,Trondheim Symfoniorkester
+804,Ultima Contemporary Music Festival
+805,Åmot Operagard
+807,New Zealand Opera
+808,New Zealand International Arts Festival
+809,Royal Opera House of Muscat
+810,Festival Internacional de Ópera Alejandro Granda
+811,Opera de Lima
+812,Capella Cracoviensis
+813,Festiwal Mozartowski w Warszawie
+814,Krakow Opera Summer Festival
+815,Krakowska Opera Kameralna
+816,Mazowsze
+817,Opera Bałtycka
+818,Opera Krakowska
+819,Opera Nova w Bydgoszczy
+820,Opera Podlaska
+821,Opera Rara Festival Krakow
+822,Opera Wrocławska
+823,Opera na Zamku
+824,Opera Śląska
+825,Polish National Opera
+826,Teatr Muzyczny w Łodzi
+828,Teatr Wielki Łódź
+829,Warsaw Chamber Opera
+830,Associação Dos Amigos Do Coliseu Do Porto
+831,Fundação Centro Cultural de Belém
+832,Ponte de Lima Festival of Opera and Classical Music
+833,Porto 2001
+834,São Luiz Teatro Municipal
+835,Teatro Nacional de São Carlos
+836,Opera Națională București
+837,Classics for Pleasure
+838,Festival Enescu
+839,Opera Brasov
+840,Opera Comică Bucureşti
+843,Opera Nationala Romana Timisoara
+846,Opera Națională Română Iași
+847,Opera Română Craiova
+848,Teatrul Naţional de Operă şi Balet Oleg Danovski
+851,SNP Novi Sad
+852,Astrakhan Opera and Ballet Theatre
+853,Bolshoi Theatre
+854,Buryat Academic Opera and Ballet Theatre
+855,Chelyabinsk State Opera
+857,Galina Vishnevskaya Opera Centre
+858,Helikon Opera
+859,Mariinsky Theatre
+860,Mikhailovsky Theatre
+861,Moscow Chamber Opera
+862,Moscow Children's Musical Theatre
+863,Novaya Opera
+865,Perm Tchaikovsky Opera and Ballet Theatre
+866,Primorsky Opera
+867,Republic of Karelia State Music Theatre
+868,Rostov State Opera
+869,Samara Academic Theatre of Opera and Ballet
+870,Sapaev Mari State Opera and Ballet Theatre
+871,Saratov Opera and Ballet
+872,St Petersburg Chamber Opera
+873,Stanislavsky and Nemirovich-Danchenko Academic Music Theatre
+874,Stars of the White Nights
+876,State Opera and Ballet Theatre of Udmurt Republic
+877,Krasnoyarsk State Opera
+879,Tatar State Opera
+880,Confidencen
+881,Dalhalla Opera Festival
+882,Drottningholms Slottsteater
+883,Folkoperan
+884,Fäviken Opera
+885,GöteborgsOperan
+886,Kungliga Operan
+887,Läckö Slottsopera
+888,Malmö Opera
+889,Malmöfestivalen
+890,NorrlandsOperan
+891,Opera på Skäret
+892,Operafabriken
+893,Piteå Kammaropera
+894,Skånska Operan
+895,Stockholm International Composer Festival
+896,Stålboga sommaropera
+897,Vadstena Summer Opera Festival
+898,Wermland Opera
+899,Ystadoperan
+900,Singapore Lyric Opera
+901,Festival Ljubljana
+902,SNG Maribor
+903,SNG Opera in balet Ljubljana
+904,Slovenska filharmonija
+906,Eurokontext sk
+907,Slovak National Theatre
+908,State Opera Banská Bystrica
+909,National Theatre Belgrade
+910,Madlenianum Chamber Opera
+911,Ópera de El Salvador
+912,Damascus Opera
+913,Dar Al Assad for Culture and Arts / Damascus Opera
+914,Bangkok Opera
+915,Ankara State Opera
+916,Antalya State Opera and Ballet
+917,International Izmir Festival
+918,Istanbul Foundation for Culture and Arts
+920,Izmir State Opera and Ballet
+921,Mersin State Opera and Ballet
+922,Samsun State Opera and Ballet
+923,Dnipropetrovsk Opera and Ballet
+924,Donbass Opera
+925,Kharkiv Opera and Ballet
+926,Lviv National Academic Opera and Ballet Theatre
+927,National Opera of Ukraine
+928,Odessa Opera and Ballet
+929,2x2 Opera
+930,AIMS International Music School
+932,Aldeburgh Festival
+933,Almeida Opera
+934,And So Forth Productions
+935,Anglia Opera
+937,Ardente Opera
+938,Aria Alba
+939,Armonico Consort Opera
+940,Association of British Orchestras
+941,Astwood Bank Operatic Society
+942,Aylesbury Opera Group
+943,BAC Opera
+944,BBC Cardiff Singer of the World
+945,BBC Concert Orchestra
+946,BBC Philharmonic
+947,BBC Proms
+948,BBC Scottish Symphony Orchestra
+949,BBC Symphony Orchestra
+950,Bampton Classical Opera
+951,Barefoot Opera
+952,Bath Festival
+953,Bath Gilbert and Sullivan Society
+954,Bath Opera
+955,Bel Canto Opera
+956,Berwick Festival Opera
+957,Birmingham Contemporary Music Group
+958,Birmingham Opera Company
+959,Blackheath Halls Opera
+960,Boii Theatre
+961,Bollington Festival Opera
+962,Brent Opera
+963,Brian Irvine Ensemble
+964,Brighton Festival
+966,British Youth Opera
+967,Britten Sinfonia
+968,Britten-Pears Young Artists
+969,Burry Port Opera
+970,Bury Court Opera
+971,Buxton International Festival
+973,CBSO
+974,Cambridge Handel Opera Group
+975,Cambridge University Opera Society
+976,Candlelight Opera
+977,Carl Rosa Opera
+978,Castleward Opera
+979,Central School of Speech and Drama
+980,Charles Court Opera
+981,Charnwood Opera
+982,Chelsea Opera Group
+983,Cheltenham Festival
+984,Children's Music Workshop
+985,Chilmark Opera
+986,Chimera Opera
+987,Citric Acid Productions
+988,City Lit Opera School
+989,City of London Sinfonia
+990,City of Manchester Opera
+991,Classical Opera
+992,Clod Ensemble
+993,Clonter Opera
+994,Co-Opera Co
+995,Compagnia d'Istrumenti
+996,Connaught Artists Management
+997,Cossington Handel Festival
+998,Dartington International Summer School
+999,Dioneo
+1000,Diva Opera
+1001,Dorset Opera
+1002,Duchy Opera
+1003,Dunedin Consort and Players
+1004,ENO Baylis
+1005,Early Opera Company
+1006,Eboracum Baroque
+1008,Edinburgh International Festival
+1009,Edinburgh Studio Opera
+1010,Electric Voice Theatre
+1011,Elemental Opera
+1012,Ellen Kent International
+1013,En Travesti Ensemble
+1014,English Bach Festival
+1015,English Chamber Opera
+1016,English National Opera
+1017,English Opera Singers
+1018,English Pocket Opera Company
+1019,English Touring Opera
+1020,Ensemble Amorpha
+1021,Ensemble Serse
+1022,European Opera Centre
+1023,Festival of Firsts
+1024,Fife Opera
+1025,FifteenB Productions
+1026,Filament Theatre
+1027,Focus Opera
+1028,Freeze Frame Opera
+1029,Fulham Opera
+1030,Fusebox Productions
+1031,Gabrieli Consort and Players
+1032,Garden Opera
+1033,Garsington Opera
+1034,Glyndebourne Education
+1035,Glyndebourne Festival
+1037,Go Opera
+1038,Golden Hat Opera
+1039,Grange Park Opera
+1040,Greenwich Park Opera
+1041,Grimeborn Opera Festival
+1042,Guildford Opera
+1043,Guildford Philharmonic Orchestra
+1044,Guildhall School of Music and Drama
+1045,Gyenyame
+1046,Haddo House Choral and Operatic Society
+1047,Hampstead Garden Opera
+1048,Hand Made Opera
+1049,Harrow Opera
+1050,Hatstand Opera
+1051,Hebrides Ensemble
+1052,Heritage Opera
+1053,Hilliard Ensemble
+1054,Huddersfield Contemporary Music Festival
+1055,Iford Arts
+1056,Impropera
+1057,Independent Opera at Sadler's Wells
+1058,Inside Intelligence
+1059,Iris Theatre
+1060,Isleworth Baroque
+1061,Jette Parker Young Artists
+1062,Jubilee Opera
+1063,Kennet Opera
+1064,Kentish Opera
+1065,Key Productions
+1066,King's Opera
+1067,La Nuova Musica
+1068,La Serenissima
+1069,Lakeland Opera
+1070,Leeds Youth Opera
+1071,Liverpool Philharmonic Orchestra
+1072,Livewire Opera Company
+1073,London Contemporary Opera
+1074,London Festival Opera
+1075,London Handel Festival
+1076,London Lyric Opera
+1077,London Philharmonic Orchestra
+1078,London Sinfonietta
+1079,London Symphony Orchestra
+1080,London Youth Opera
+1081,Longborough Festival Opera
+1082,Madestrange Opera
+1084,Mahogany Opera
+1085,Malcolm Arnold Festival
+1086,Mananan Festival Opera Group
+1087,Manchester Camerata
+1088,Manchester International Festival
+1089,Manning Camerata
+1090,Medway Opera
+1091,Merry Opera Company
+1092,Metta Theatre
+1093,Mid Wales Opera
+1094,Midsummer Opera
+1095,Mr McFall's Chamber
+1096,Music Box Children's Opera
+1098,Music at Woodhouse
+1099,Musical Theatre Network
+1100,Musicall Compass
+1101,Northern Ireland Opera
+1102,NOISE
+1103,Naked Opera Co
+1104,National Opera Studio
+1105,Nevill Holt Opera
+1106,New Chamber Opera
+1107,New Cornwall Opera
+1108,New Devon Opera
+1109,New London Consort
+1110,New Sussex Opera
+1111,Nitro
+1112,North Star Opera
+1113,Northampton Festival Opera
+1114,Nova Opera
+1115,Okeanos
+1116,Op Soc
+1117,Open Door Opera
+1118,Opera 74
+1119,Opera Anglia
+1120,Opera Anywhere
+1121,Opera Bohemia
+1122,Opera Box
+1123,Opera Brava
+1124,Opera Cabaret
+1125,Opera Circus
+1126,Opera Danube
+1127,Opera East Lothian
+1128,Opera East
+1129,Opera Engine
+1130,Opera Erratica
+1131,Opera Exchange
+1132,Opera Femina
+1133,Opera Festa
+1134,Opera For All
+1135,Opera Fringe
+1136,Opera Gold
+1137,Opera Holland Park
+1138,Opera Holloway
+1139,Opera Integra
+1140,Opera London
+1141,Opera Lyrica
+1142,Opera Minima
+1143,Opera Mint
+1144,Opera North Education and Projects
+1145,Opera North
+1146,Opera Rara
+1147,Opera Restor'd
+1148,Opera Room
+1149,Opera Seria
+1150,Opera Settecento
+1151,Opera South East
+1152,Opera South
+1153,Opera UK
+1154,Opera Unlimited
+1155,Opera Viscera
+1156,Opera a la Carte
+1157,Opera at Bearwood
+1158,Opera at Home
+1159,Opera dei Lumi
+1160,Opera della Luna
+1161,Opera in Space
+1162,Opera'r Ddraig
+1163,Opera24
+1164,OperaUpClose
+1165,Operaletta
+1166,Operaluna
+1167,Operamus
+1168,Operatique
+1169,Operaview
+1170,Opra Cymru
+1171,Orchestra of St Paul's
+1172,Oxford Lieder
+1173,Oyster Opera
+1174,Park Music
+1175,Park Opera
+1176,Pavilion Opera
+1177,Pegasus Opera
+1178,Pendle Opera
+1179,Performing Arts Lab
+1180,Peterborough Opera
+1182,Pop-up Opera
+1183,Presteign Festival
+1184,Preston Opera
+1185,Psappha
+1186,RAM Opera
+1187,RSAMD
+1188,Radius
+1189,Random Opera Company
+1190,Raymond Gubbay
+1191,Reading Operatic Society
+1192,Regents Opera
+1193,Regular Music II
+1194,Relative Pitch Opera
+1195,Retrospect Ensemble
+1196,Rhapsody Opera
+1197,Riverside Opera
+1198,Rochdale Phoenix Operatic Society
+1199,Rocket Opera
+1200,Royal Academy Opera
+1201,Royal College of Music
+1202,Royal Conservatoire of Scotland
+1203,Royal Northern College of Music
+1204,Royal Opera House Education
+1205,Royal Opera
+1206,Royal Philharmonic Orchestra
+1207,Royal Scottish Academy of Music and Drama
+1208,Royal Welsh College of Music and Drama
+1209,Rugby Operatic Society
+1210,Ryedale Festival
+1211,Sasha Felix theatre
+1212,Scarlet Opera
+1213,Scottish Opera Education
+1214,Scottish Opera
+1215,Second Movement
+1216,Selfmade Music Theatre
+1217,Shadwell Opera
+1218,Sharp Productions
+1219,Sharpwire
+1220,Sheffield City Opera
+1221,Silent Opera
+1222,Situation Opera
+1223,Size Zero Opera Company
+1224,Solomons Knot
+1225,Somerset Opera
+1226,Sound of Static Music and Theatre
+1227,South Wessex Opera
+1228,Southgate Opera
+1229,Southwick Opera
+1230,Spa Opera
+1231,Spitalfields Summer Festival
+1232,St Albans Chamber Opera
+1233,St Magnus Festival
+1234,Stanley Hall Opera
+1235,Stentorphon Opera
+1236,Stephen Joseph Theatre Company
+1237,Stile Antico
+1238,Stowe Opera
+1239,Streetwise Opera
+1240,Suffolk Opera
+1241,Surrey Opera
+1242,Swansea City Opera
+1243,Swindon ALOS
+1244,Tayside Opera
+1245,TellTale Opera
+1246,The Continuum Ensemble
+1247,The English Concert
+1248,The English Music Festival
+1249,The Little Opera Company
+1250,The Minotaur Music Theatre
+1251,The Music Troupe
+1252,The Opera Group
+1253,The Opera Project
+1254,The Rose Opera Company
+1255,The Sage Gateshead
+1256,The Shout
+1257,The Sixteen
+1258,The Wardrobe Ensemble
+1259,The Wedding Collective
+1260,Theatre Cryptic
+1261,Three Towns Operatic Society
+1262,Thrift Music theatre company
+1263,Trinity College of Music
+1264,Trinity Laban Opera
+1265,Two Moors festival
+1266,Tête à Tête Festival
+1267,Tête à Tête
+1268,Una Voce Opera Company
+1269,Unexpected Opera
+1270,University College Opera
+1271,Urban Troubadour
+1272,Vault Festival
+1273,Vignette Productions
+1274,Viriditas Opera
+1275,Vision Opera
+1276,Vocal Motions Elastic Theatre
+1277,Vocem Electric Voice Theatre
+1278,VoiceArc
+1279,W11 Opera for Young People
+1280,WNO Max
+1281,Waistcoat Company
+1282,Warehouse Ensemble
+1283,Warrington Light Opera
+1284,Welsh National Opera
+1285,Welsh National Youth Opera
+1286,West Green House Opera
+1287,West London Opera
+1288,West Riding Opera
+1289,White Horse Opera
+1290,Windsor and Eton Opera
+1291,Winslow Hall Opera
+1292,Winterbourne Opera
+1293,Woodhouse Opera Festival
+1294,Yorkshire Bach Choir
+1295,Young Vic
+1296,operafour
+1297,Abilene Opera
+1298,Academy of Vocal Arts Opera Theatre
+1299,Amarillo Opera
+1300,Amato Opera Theatre
+1301,American Opera Projects
+1302,Anchorage Opera
+1303,Annapolis Opera
+1304,Arizona Opera
+1305,Charlottesville Opera
+1306,Aspen Music Festival
+1307,Atlanta Opera
+1308,Augusta Opera
+1309,Aurora Opera Theatre
+1310,Austin Opera
+1311,Baltimore Opera
+1312,Bard Summerscape
+1313,Belcanto at Caramoor
+1314,Berkeley Opera
+1315,Berkshire Opera Company
+1316,Bohème Opera
+1317,Boston Early Music Festival
+1318,Boston Festival Opera
+1319,Boston Lyric Opera
+1320,Bronx Opera
+1321,Brooklyn Academy of Music
+1322,Capital City Opera
+1323,Castleton Festival
+1324,Cedar Rapids Opera Theatre
+1325,Center for Contemporary Opera
+1326,Central City Opera
+1327,Central Florida Lyric Opera
+1328,Chattanooga Symphony and Opera
+1329,Chautauqua Opera Festival
+1330,Chelsea Opera
+1331,Chicago Opera Theater
+1332,Cincinnati Opera
+1334,Commonwealth Opera
+1335,ConcertOPERA
+1336,Connecticut Grand Opera
+1337,Connecticut Opera
+1338,Curtis Institute of Music
+1340,Dell'Arte Opera Ensemble
+1341,Denton Light Opera Company
+1342,Des Moines Metro Opera
+1343,Dicapo Opera Theatre
+1344,Dupage Opera Theatre
+1345,El Paso Opera
+1346,Encompass Music Theatre
+1348,Eugene Opera
+1349,Fargo-Moorhead Opera
+1350,Festival Opera
+1351,Florentine Opera
+1352,Florida Grand Opera
+1353,Florida State Opera
+1354,Fort Worth Opera
+1355,Fresno Grand Opera
+1357,Gold Coast Opera
+1358,Gotham Chamber Opera
+1359,Granite State Opera
+1360,Green Mountain Opera Festival
+1361,Greensboro Opera Company
+1362,Handel and Haydn Society
+1363,Harrisburg Opera Association
+1364,Hawaii Opera Theatre
+1365,Hispanic-American Lyric Theatre
+1366,Houston Ebony Opera Guild
+1367,Houston Grand Opera
+1368,Huntsville Opera Theater
+1369,Indiana Opera Theatre
+1370,Indiana University Opera
+1371,Indianapolis Opera
+1372,Intermountain Opera
+1373,Jefferson Performing Arts Society
+1374,Juneau Lyric Opera
+1375,Kentucky Opera
+1376,Kitsap Opera
+1377,Knoxville Opera
+1378,LA Phil
+1379,Lincoln Center Festival
+1380,Little Opera Theatre of New York
+1381,Long Beach Opera
+1382,Long Leaf Opera
+1383,LA Opera
+1384,Lyric Opera Baltimore
+1385,Lyric Opera of Chicago
+1386,Lyric Opera of Kansas City
+1387,Lyric Opera of Waco
+1388,Madison Opera
+1389,Manhattan School of Music
+1390,Maryland Lyric Opera
+1391,Mercury Opera Rochester
+1392,Miami Lyric Opera
+1393,Michigan Opera Theatre
+1394,Minnesota Opera
+1395,Mississippi Opera
+1396,Mobile Opera
+1397,Mostly Mozart
+1398,Muddy River Opera Company
+1399,Music-Theatre Group
+1400,Musical Traditions Inc
+1401,Nashville Opera
+1402,Nautilus Music-Theater
+1403,Nevada Opera
+1404,New Jersey Association of Verismo Opera
+1405,New Jersey State Opera
+1406,New Orleans Opera
+1407,New York City Opera
+1408,New York Grand Opera
+1409,North Bay Opera
+1410,North Carolina Opera
+1411,Northern Lights Music Festival
+1412,Oakland Lyric Opera
+1413,Opera Birmingham
+1414,Opera Camerata of Washington
+1415,Opera Carolina
+1416,Opera Cleveland
+1417,Opera Colorado
+1418,Opera Columbus
+1419,Opera Company of Brooklyn
+1420,Opera Festival of New Jersey
+1421,Opera Fort Collins
+1422,Opera Grand Rapids
+1423,Opera Idaho
+1424,Opera Illinois
+1425,Opera In The Rock
+1426,Opera Lafayette
+1427,Opera Memphis
+1428,Opera Naples
+1429,Opera North
+1430,Opera Omaha
+1431,Opera Omnia
+1432,Opera Orchestra of New York
+1433,Opera Pacific
+1434,Opera Philadelphia
+1435,Opera Roanoke
+1436,Opera San Antonio
+1437,Opera San Jose
+1438,Opera Santa Barbara
+1439,Opera Saratoga
+1440,Opera Southwest
+1441,Opera Tampa
+1442,Pittsburgh Festival Opera
+1443,Opera Theatre of Saint Louis
+1444,Opera Vista
+1445,Opera Vivente
+1446,Opera in the Heights
+1447,Opera of Central Kentucky
+1448,Opera!Lenawee
+1449,OperaDelaware
+1450,OperaLancaster
+1451,Opéra Français de New York
+1452,Opera Orlando
+1453,Opera Maine
+1454,Pacific Repertory Opera
+1455,Palm Beach Opera
+1456,Pamiro Opera
+1457,Peabody Institute of the Johns Hopkins University
+1458,Pensacola Opera
+1460,Piedmont Opera
+1461,Pittsburgh Opera
+1462,Pocket Opera Players
+1463,Pocket Opera
+1464,Portland Opera
+1465,Princeton Festival
+1466,Prototype
+1467,Queens Opera Association
+1468,Ravinia Festival
+1469,Ridge Theater
+1470,Rocky Mountain Opera
+1471,Rogue Opera
+1472,Sacramento Opera
+1473,San Antonio Opera
+1474,San Diego Lyric Opera
+1475,San Diego Opera
+1476,San Francisco Opera
+1477,Santa Fe Opera
+1478,Sarasota Opera
+1479,Seattle Opera
+1480,Shreveport Opera
+1481,Shubert Performing Arts Center
+1482,Skylight Opera Theatre
+1483,Sorg Opera Company
+1484,Spokane Opera
+1485,Spoleto Festival USA
+1486,Springfield Regional Opera
+1487,Summer Opera Theatre Company
+1488,Syracuse Opera
+1489,Tacoma Opera
+1490,Taconic Opera
+1491,Tanglewood
+1492,Teatro Grattacielo
+1493,Teatro de la Opera
+1494,The Dallas Opera
+1495,The Juilliard School
+1496,The Metropolitan Opera
+1497,Toledo Opera
+1498,Townsend Opera Players
+1499,Tri-cities Opera
+1500,Tulsa Opera
+1501,Union Avenue Opera
+1502,Utah Festival Opera
+1503,Utah Opera
+1504,Vermont Opera Theater
+1505,Vero Beach Opera
+1506,Virginia Opera
+1507,Vocal Arts Society
+1508,Voice Fitness Institute
+1509,Washington Concert Opera
+1510,Washington East Opera
+1511,Washington National Opera
+1512,West Bay Opera
+1513,West Edge Opera
+1514,West Virginia Symphony Orchestra
+1515,Whitewater Opera
+1516,Wichita Grand Opera
+1517,Wildwood Park
+1518,Wolf Trap Opera
+1519,Works and Process at the Guggenheim
+1520,Sodre
+1521,Teatro Solís
+1522,Bolshoi Opera and Ballet Theatre Alisher Navoï
+1523,Cape Town Opera
+1525,Spier Arts Summer Season
+1527,Eduard-von-Winterstein-Theater Annaberg
+1529,Teatro Calderon
+1531,Theater und Philharmonie Thüringen
+1532,Angers Nantes Opéra
+1534,Theater Krefeld und Mönchengladbach
+1535,Teatro Verdi di Salerno
+1539,Opera Trionfo
+1541,Palacio de Festivales de Cantabria
+1542,L'Auditori
+1546,Bunka Kaikan Tokyo
+1547,Bunkamura Orchard Hall
+1550,Opera2day
+1552,St Petersburg Theatre of Musical Comedy
+1554,Gran Teatro Nacional
+1555,Theater der Stadt Remscheid
+1558,Cadogan Hall
+1559,Suntory Hall
+1560,Music Theatre Wales
+1561,The Lir
+1562,Almeida Opera
+1563,Seoul Arts Center
+1564,South Bank Centre
+1565,Teatro Circo
+1568,Irish National Opera
+1569,National Concert Hall
+1570,Sommer Oper Bamberg
+1571,Lyric Theatre Hammersmith
+1575,National Opera Studio
+1577,NHK Tokyo
+1578,Opera Ireland
+1581,MITO Settembre Musica
+1582,Theater Plauen-Zwickau
+1583,Fondazione Teatro della Fortuna
+1584,Apollo Theatre
+1585,Aurora Opera Theatre Arlington
+1586,Piccolo Teatro di Milano
+1589,Thessaloniki Concert Hall
+1593,Donau Festwochen
+1594,State Theatre
+1595,Mahogany Opera Group
+1596,Teatro Argentino
+1597,Birmingham Opera Company
+1600,Festival de Opera de Brasilia
+1603,Händel-Festspiele Halle
+1605,Stadsschouwburg
+1606,Palau de la Música
+1608,Birmingham Symphony Hall
+1609,Palau de la Música Catalana
+1610,Opera Piccola San Antonio
+1612,Schouwburg en Concertzaal Tilburg
+1616,Bashkir State Opera and Ballet Theatre
+1617,Klassik Festival Schloss Kirchstetten
+1618,Opera In Concert
+1620,Teatro Romea
+1622,Theater Winterthur
+1623,Prototype Festival
+1625,Iford Arts
+1626,Dutch National Opera Academy
+1628,Bristol Hippodrome
+1634,Holland Festival
+1635,Auditorio Ciudad de León
+1636,Mongolian State Academic Theatre of Opera and Ballet
+1637,Opera Boston
+1638,Les Soirées Lyriques de Gigondas
+1639,Royal Conservatoire of Scotland
+1643,Konzerthaus Berlin
+1644,Dorset Opera
+1645,Abai Opera
+1646,Cheltenham Festival
+1648,Stadsschouwburg
+1651,Raymond Gubbay
+1652,NI Opera
+1653,Teatro Pérez Galdós
+1654,Stadsschouwburg
+1656,Opera Studio Nederland
+1657,Offenbach Festival
+1660,Teatro dei Filodrammatici
+1661,Independent Opera
+1662,Royal Northern College of Music (RNCM)
+1663,Kings Place Theatre
+1664,Central City Opera Theater
+1666,Teatro Teresa Carreño
+1668,Castleton Festival
+1671,Azuriales
+1675,Auditorio y centro de Congresos Victor Villegas
+1676,Terme di Caracalla
+1679,La Fabrique Opera
+1680,Opera Maghiară din Cluj-Napoca
+1681,Canterbury Opera
+1683,Festival de Ópera Panamá
+1684,Festival de Verano
+1685,Competizione dell'Opera
+1686,International Mozart Competition Salzburg
+1687,Internationaler Hilde Zadek Gesangswettbewerb
+1688,Internationaler Lions-Gesangswettbewerb Gut Immling
+1689,Klassik Mania
+1690,Seefestspiele Mörbisch
+1691,Brisbane Baroque
+1692,Elizabeth Connell Prize for Dramatic Sopranos
+1693,Nagambie Lakes Opera Festival
+1694,Perth International Arts Festival
+1695,Sydney Chamber Opera
+1696,Concours Reine Elisabeth - Bruxelles
+1697,Opera Avanti
+1698,Volksopera
+1699,The Euterpe Rose of Karlovo
+1700,Companhia de Ópera do Espírito Santo
+1701,Festival de Música Erudita do Espírito Santo
+1702,Concours Musical International de Montréal
+1703,Concours de Genève
+1705,Gstaad Menuhin Festival
+1706,Internationales Opernstudio
+1707,Nationalen Gesangswettbewerb Oper Schloss Hallwyl
+1708,Concours International d'Exécution Musicale Viña del Mar
+1709,Beijing International Music Competition
+1710,China International Vocal Competition (Ningbo)
+1711,Festival of Baroque Arts
+1712,Hof-Musici
+1715,The International Antonín Dvořák Singing Competition
+1716,Così facciamo
+1717,Emmerich-Smola-Förderpreis
+1718,European Opera Singing Competition DEBUT
+1720,International Hans Gabor Belvedere Singing Competition
+1721,Internationale Gesangswettbewerb NEUE STIMMEN
+1722,Internationaler Gesangswettbewerb Vokal genial 2015
+1723,Internationaler Gesangswettbewerb für Wagnerstimmen
+1724,Internationaler Musikwettbewerb Köln
+1725,Internationaler Musikwettbewerb der ARD
+1726,Internationaler Wettbewerb für Liedkunst
+1727,Joseph Suder Liedwettbewerb
+1728,Neue Stimmen
+1729,Offenbach Festival Bad Ems
+1730,Rheingau Musik Festival
+1732,Tivoli Festival
+1733,Klaudia Taev International Competition for Young Opera Singers
+1734,Concurs Internacional de Cant Francesc Viñas
+1735,Concurs Josep Mirabent i Magrans de canto y música de cámara
+1736,Concurso Internacional de Canto ÓPERA DE TENERIFE
+1737,Concurso Internacional de Zarzuela
+1738,International Opera Studio Gijón
+1739,Julian Gayarre Singing Competition
+1740,Teatro Calderón
+1741,Jyväskylän Ooppera
+1742,Mirjam Helin Competition
+1743,Suomalainen Kamariooppera
+1744,Concours International d'Art Lyrique de Provence
+1745,Concours International d'Art Vocal Georges Enesco
+1746,Concours International d'Opéra de Marseille
+1747,Concours International de Chant de Toulouse
+1748,Concours International de Chant des Châteaux en Médoc
+1749,"Concours International de Chant, Marmande"
+1750,Concours International de Musique de Chambre de Lyon
+1751,Concours Michel Dens
+1752,Concours d'opérette et d'opéra-comique de l'UPMCF
+1753,Concours de chant les Amis du Grand-Théâtre
+1754,Concours international d'air d'opéra et mélodie française
+1755,Concours international d'art lyrique Régine Crespin
+1756,Concours international de Chant-Piano Nadia et Lili Boulanger
+1757,Concours international de chant de Clermont-Ferrand
+1758,Festival des Châteaux de Bruniquel
+1759,Festival pour l'humanité
+1760,La Fabrique Opéra
+1761,Les Nuits de Salses
+1762,Opéra en Arles
+1763,Paris Opera Competition
+1764,Théâtre Musical de Lyon
+1765,Grand Prix Maria Callas
+1766,Győr National Theatre
+1767,Lismore Opera Festival
+1768,MusicTown Festival
+1769,Concorso lirico internazionale Marcella Pobbe
+1770,Concorso Comunità Europea 2014 per Giovani Cantanti Lirici
+1771,Concorso Internazionale Città di Pisa Omaggio a Titta Ruffo
+1772,Concorso Internazionale Giovanni Battista Rubini
+1773,Concorso Internazionale Jole De Maria
+1774,Concorso Internazionale Lirico Premio Boni
+1775,Concorso Internazionale Per Ruoli Lirici - Piero Sardelli
+1776,Concorso Internazionale V Bellini per Cantanti Lirici
+1777,Concorso Internazionale Voci Nuove per la Lirica Gaetano Fraschini
+1778,Concorso Internazionale Voci Verdiane
+1779,Concorso Internazionale Voci Wagneriane
+1780,Concorso Internazionale di Canto Giulio Neri
+1781,Concorso Internazionale di Canto Lirico Clinica Cappellin
+1782,Concorso Internazionale di Canto Lirico FEDERICO II
+1783,Concorso Internazionale di Canto Lirico Marcello Giordani
+1784,Concorso Internazionale di Musica Cappuccilli · Patané · Respighi
+1785,Concorso Internazionale di canto Maria Caniglia
+1786,Concorso Internazionale per Cantanti Lirici - Treviso
+1787,Concorso Internazionale per Cantanti Lirici Benvenuto Franci
+1788,Concorso Internazionale per giovani voci liriche Flaviano Labò
+1789,Concorso Lirico Internazionale Città di Magenta
+1790,Concorso Lirico Internazionale Iris Adami Corradetti
+1791,Concorso Lirico Internazionale Jole De Maria
+1792,Concorso Lirico Internazionale Magda Olivero
+1793,Concorso Lirico Internazionale Maria Malibran
+1794,Concorso Lirico Internazionale R Leoncavallo
+1795,Concorso Lirico Internazionale R PELIZZONI
+1796,Concorso Lirico Internazionale Trofeo La Fenice
+1797,Concorso Lirico Internazionale Umberto Giordano
+1798,Concorso Lirico Riccardo Zandonai
+1799,Concorso di Canto Lirico Artisti per la vita
+1800,Concorso di Canto Lirico La Città Sonora
+1801,Concorso internazionale di Canto lirico Symphoniam
+1802,Concorso internazionale di canto lirico a ruoli
+1803,Concorso lirico internazionale Giovanni Martinelli-Aureliano Pertile
+1804,Concorso lirico internazionale Nuovo Salice d'Oro Faravelli
+1805,Concorso nazionale di canto lirico Artisti per la vita
+1806,Concorso voci liriche
+1807,Concours International Musique Sacrée
+1808,Gian Battista Viotti International Music Competition
+1809,OperaLombardia
+1811,Premio Internazionale di Canto Lirico Valerio Gentile
+1812,Premio Internazionale di Santa Chiara
+1813,SPAZIO MUSICA International Competition for Opera Singers
+1814,Spring Festival in Tokyo
+1815,Beseto Opera
+1816,Seoul International Music Competition
+1817,Ópera de Sinaloa
+1818,Fred Luiten Concertorganisatie
+1819,International Vocal Competition's-Hertogenbosch
+1820,Nationale Reisopera
+1821,ODD Continent
+1822,Opera Forward Festival
+1823,Taller Amsterdam
+1824,Bergen Kammeropera
+1825,The Queen Sonja International Music Competition
+1826,Auckland Arts Festival
+1827,Festival Opera
+1828,New Zealand Opera
+1829,Southern Opera
+1830,Ada Sari International Vocal Artistry Competition
+1831,International Stanisław Moniuszko Vocal Competition
+1832,Opera Rara
+1833,International Voice Competition of the Bucharest National Opera House - Le Grand Prix de l'Opéra
+1834,Opera Națională Română Cluj-Napoca
+1835,Concours International des Jeunesses Musicales de Belgrade
+1836,International Tchaikovsky Competition
+1837,Drakamöllan
+1838,Kamraterna
+1839,Opera i Ystad
+1840,Smålandsoperan
+1841,Tonsättarweekend
+1842,Štátne divadlo Košice
+1843,Imrich Godin International Vocal Competition IUVENTUS CANTI
+1844,International Voice Competition Renata Tebaldi
+1845,Ankara State Opera and Ballet
+1846,Aspendos Opera and Ballet Festival
+1847,Istanbul State Opera and Ballet
+1848,Leyla Gencer Voice Competition
+1849,Bristol Opera
+1850,Nova Music Opera
+1851,Opera Project
+1852,Ash Lawn Opera
+1853,Dallas Opera Guild's Annual Vocal Competition
+1854,Glimmerglass Festival
+1855,Grand Concours de Chant
+1856,International Vocal Competition Albanese-Puccini
+1857,Irene Dalis Vocal Competition
+1858,Kristina Townsend Memorial Vocal Competition
+1859,Loft Opera
+1860,National Vocal Competition for Young Opera Singers
+1861,Nico Castel International Master Singer Competition
+1862,Odyssey Opera
+1863,Opera Parallèle
+1864,Operalia
+1865,Piccolo Opera Company
+1867,Venture Opera
+1868,Vocal Arts DC
+1869,Young Artists Scholarship Competition
+1870,Performing Arts Council
+1871,Anna Livia International Opera Festival
+1872,Staufer Festspiele Göppingen
+1873,Asociación Cultural de Amigos Palmeros de la Opera
+1876,Sugi Opera Company
+1877,EntArteOpera
+1878,Theater St Gallen
+1879,Fondazione Haydn di Bolzano e Trento
+1880,Taormina Opera Stars
+1881,Oper im Steinbruch
+1883,Ao Largo
+1884,Bashkir State Opera
+1885,Pushkin State Opera
+1886,State Opera Voronezh
+1887,Glyndebourne
+1888,OperaCoast
+1889,Waste Paper Opera
+1890,Bombay Rickey
+1891,CitiOpera
+1892,Walpurgis
+1894,Sommeroper Selzach
+1895,Kleine Oper am See
+1896,Nico and the Navigators
+1897,Alþýðuóperan
+1898,Ekaterinburg Opera
+1899,Novosibirsk state academic opera and ballet theatre (NOVAT)
+1900,Against the Grain Theatre
+1901,Calgary Concert Opera
+1902,FAWN Chamber Creative
+1903,Halifax Summer Opera Festival
+1904,La Compagnie baroque Mont-Royal
+1905,Maritime Concert Opera
+1906,Opera Nova Scotia
+1908,Grand-Théâtre de Genève
+1909,Opéra Décentralisé Neuchâtel
+1910,Israel Philharmonic Orchestra
+1911,Teatro Marrucino
+1912,Ateliê de Ópera da Metropolitana
+1914,Gulfshore Opera
+1915,Third World Bunfight
+1916,Festival Nueva Ópera de Buenos Aires
+1917,Operettentheater Salzburg
+1918,International Opera Academy
+1920,La Fura dels Baus
+1921,Tampereen Ooppera
+1922,Vaasan Ooppera
+1923,Festival d'Opérettes de Lamalou les Bains
+1924,Compagnia d'Opera Italiana di Milano
+1925,Teatrul Muzical Nae Leonard
+1926,Asking4It Productions
+1927,The Grange Festival
+1929,UrbanArias
+1930,Shanghai Baroque Festival
+1932,Theater Münster
+1933,Theater und Orchester Heidelberg
+1935,La co[opéra]tive
+1936,Opéra de Barie
+1938,Purtimiro
+1939,Opera Hawke's Bay
+1940,OperaViva Limited
+1941,Istanbul Music Festival
+1942,Devon Opera
+1943,Dorset Opera Festival
+1944,Dayton Opera
+1945,New York City Opera (defunct)
+1946,Teatro Teresa Carreño
+1947,Opéra de Limoges
+1949,New Generation Festival
+1950,Brisbane Festival
+1951,Sydney Festival
+1952,Festival Opéra de Québec
+1953,Staatsoper Stuttgart
+1954,Stadium World Tour
+1955,Theater an der Rott
+1956,Langgaard Festival
+1957,Odense Symfoniorkester
+1958,Théâtre de Cornouaille
+1959,Müpa Budapest
+1960,Teatro Regio di Parma
+1961,Teatro Verdi di Padova
+1962,Teatr Wielki Poznań
+1963,Cryptic
+1964,London Armenian Opera
+1965,Turku Music Festival
+1966,New York Opera Fest
+1967,Centro Cultural Miguel Delibes
+1968,Wagner in Budapest
+1969,March Music Days
+1970,OperAvenir
+1971,Theater Kanton Zürich
+1972,Collegium Marianum
+1973,Internationale Opernstudio der Staatsoper Hamburg
+1974,Komische Oper Studio
+1975,Oper Oder-Spree
+1976,Opernstudio der Bayerischen Staatsoper
+1977,NordicOpera
+1978,Le Tendre Amour
+1979,Détours de Babel
+1980,Festival Mémoires
+1981,Festival Offenbach d'Etretat
+1982,La Cage
+1983,Opéra Nomade
+1984,Monteverdi Festival
+1985,Mythos Opera Festival
+1986,Operosa Montenegro Opera Festival
+1987,Nederlands Philharmonisch Orkest
+1988,Academy of Ancient Music
+1989,ENO Studio Live
+1990,Berkshire Opera Festival
+1991,Mark Morris Dance Group
+1992,Opera NEO
+1993,Pacific Symphony
+1994,Schlossoper Haldenstein
+1995,Glimt
+1996,Festival Sagunt a Escena
+1998,Cappella Neapolitana
+1999,Concerto Italiano
+2000,Teatro El Círculo
+2001,London Festival of Baroque Music
+2002,Raucous Rossini
+2003,Time Zone Theatre
+2004,West Australian Symphony Orchestra
+2005,Opera Kelowna
+2006,Werdenberger Schloss-Festspiele
+2007,Festtage Berlin
+2008,Outono lírico en Vigo
+2009,Festival Palazzetto Bru Zane à Paris
+2011,Festival dell'Opera buffa Napoli e l'Europa
+2012,Cēsu Mākslas festivāls
+2013,Amsterdam Baroque Orchestra
+2014,European Music Open
+2015,English Baroque Soloists
+2016,Orchestre Révolutionnaire et Romantique
+2018,Helsingin Koominen Ooppera
+2019,Palazzetto Bru Zane
+2020,Gaulitanus
+2021,Celebrate Voice
+2022,National Gilbert and Sullivan Opera Company
+2023,Victory Hall Opera
+2024,Productions Opéra Concept
+2025,Kammerakademie Potsdam
+2026,Hotel Pro Forma
+2027,Novaria
+2028,Opera 2001
+2029,Ópera de Cámara de Navarra
+2030,Arsmondo
+2031,Compagnie Manque Pas d'Airs
+2032,Les Monts du Reuil
+2033,Opéra Côté Chœur
+2034,Skull of Yorick Productions
+2037,Ante Terminum Productions
+2038,Byre Opera
+2039,Cambridge Handel Opera Company
+2040,Scottish Chamber Orchestra
+2041,The King's Consort
+2042,The Opera Story
+2044,Island City Opera
+2045,Teatro Nuovo
+2046,Herbsttage Blindenmarkt
+2047,Operettenbühne Wien
+2048,Operami
+2049,Opera Plexus
+2050,Pärnu Opera Days
+2051,Saaremaa Opera Festival
+2052,Blackwater Valley Opera Festival
+2053,Meet in Galilee
+2054,Festival Como Città della Musica
+2055,Istituto Monteverdi
+2056,Riga Early Music Festival
+2057,Sesto Senso Opera Festival
+2058,Weinviertler Festspiele
+2059,Un'estate da Re
+2060,Musik Fest Hamburg
+2061,Thüringer Schlossfestspiele Sondershausen
+2062,Les Journées de Galilée
+2063,Piccolo Opera Festival di Friuli Venezia Giulia
+2064,Japan Opera Festival
+2065,Opera Comică București
+2066,Cleveland Orchestra
+2067,Fondazione Peccioliper
+2068,Festival d'Opéra
+2069,Mozart Festival Pravets
+2070,Festival Barenboim
+2071,International Yerevan Opera Fest
+2072,Höörs Sommaropera
+2073,SR Klassik am See
+2074,Festival Puccini Arezzo
+2075,Tellspiele Interlaken
+2076,Varese Estense Festival
+2077,Asociación Cultural Amigos de la Zarzuela  Fedrico Romero
+2078,Musiarte Producciones
+2079,Belcanto Opera Festival in Japan
+2080,Berliner Philharmoniker
+2081,Tokyo Nikikai Opera
+2082,Kyiv Operetta Theatre
+2083,Orchestre de Paris
+2084,Fondazione Politeama Catanzaro
+2085,Shaanxi Performing Arts Center
+2086,Teatro Regional del Maule
+2087,Teatro dell'Aquila
+2088,Musica Viva Opera Production
+2089,Civitanova allOpera
+2091,Opera Mariposa
+2092,The Airport Society
+2093,Zürcher Kammer­orchester
+2094,Les Arts Florissants
+2095,Orchestra Senzaspine
+2096,Teatro di Varese Openjobmetis
+2097,Ada Sari International Vocal Artistry Festival
+2098,L'arte del mondo
+2099,Donizetti Opera
+2100,Filarmonica Arturo Toscanini
+2101,Teatro Amintore Galli
+2102,Bühne Burgäschi
+2103,Kammerphilharmonie Lübeck
+2104,Alte Oper Frankfurt
+2105,Mill City Summer Opera
+2106,Opera Collective Ireland
+2107,Kilkenny Arts Festival
+2108,Teatro dell'Unione
+2109,Céleste Productions
+2110,Grafenegg
+2111,Merola Opera
+2112,Bleach Festival
+2113,Luxor  Festival
+2114,Toronto City Opera
+2115,Teatro Colón Bogota
+2116,International Chamber Opera Festival
+2117,Festival de Saintes
+2118,Voex-Festival
+2119,New Belgrade Opera
+2120,Teatro Nuovo Giovanni da Udine
+2121,Classionata Solothurn
+2122,Opera in the Ozarks
+2123,Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart HMDK
+2124,Teatro Verdi di Busseto
+2125,Frankenfestspiele Röttingen
+2126,Festival O
+2127,Orchestre Philharmonique du Maroc
+2128,Music of Remembrance
+2129,Circolo Musicale Mayr-Donizetti
+2130,Festival OperaDelaware
+2131,Festival d'Art Sacré de Senlis
+2132,Opus Lirica
+2134,Istrian National Theatre Pula
+2135,Mayfest Festival
+2136,Jaffa Fest
+2137,Orquesta Filarmónica de Bogotá
+2138,Vicenza in Lirica
+2140,Les Azuriales Opéra
+2141,Phoenicia International Festival of the Voice
+2142,The Southern Illinois Music Festival
+2143,Festival de Teatro Lírico Español Teatro Campoamor
+2144,Tones on the Stones
+2145,Vocal Academy of Orvieto
+2146,Lyric Opera Productions
+2147,St Petersburg Opera Company
+2148,Bloomsbury Opera
+2149,The Season - Villa La Pietra
+2151,St Mark's Opera Florence
+2152,Arezzo Raro Festival
+2153,SCAR-Sociedade Cultura Artística
+2154,Opernfest - Berlin Opera Academy
+2155,Vicenza Opera Festival
+2156,Summer Classics
+2157,Auditoria Nacional de Madrid
+2158,Young Artists Plus
+2159,Claude Heater Foundation
+2160,NDR Klassik Open Air
+2161,Festival Berlioz
+2162,Yarra Valley Opera Festival
+2163,Gertrude Opera
+2164,Lakes Area Music Festival
+2165,Guerilla Opera
+2166,Orchestre National d'Ile de France
+2167,Opera Classica Europa
+2168,NCPA National Centre for the Performing Arts

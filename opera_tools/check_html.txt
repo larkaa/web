@@ -1,0 +1,53 @@
+<div class="list_title_medium">Austria <img class="ico" onclick="pleaseScroll('0')" src="/ressources/pix/icons/top.png" style="cursor: pointer"/></div>
+
+
+
+<div class="bordered_line"><span onclick="$('#prog_5').fadeToggle();" style="cursor: pointer">Bad Ischl</span> 
+
+<img class="booking_icon" onclick="show_booking('5','Bad Ischl','en')" src="/ressources/pix/icons/booking.png" style="position: absolute;" title="booking.com"/></div>
+
+<div class="booking_info" id="booking_5"></div>
+<div id="prog_5" style="display: none"><div class="companies_work_bordered"><div class="row"><div class="cell" style="width: 20px"></div>
+<div class="cell perdate_cell" style="font-weight: normal; min-width: 70px">
+
+
+
+
+<div class="ven_result result_continent" id="content_115952"></div></div><div class="bordered_line">
+<span onclick="$('#prog_8').fadeToggle();" style="cursor: pointer">Bregenz</span> 
+
+<img class="booking_icon" onclick="show_booking('8','Bregenz','en')" src="/ressources/pix/icons/booking.png" style="position: absolute;" title="booking.com"/></div><div class="booking_info" id="booking_8"></div><div id="prog_8" style="display: none"><div class="companies_work_bordered"><div class="row"><div class="cell" style="width: 20px"></div>
+
+<div class="cell perdate_cell" style="font-weight: normal; min-width: 70px">Jul-Aug 2019<span class="verticalbar">|</span>26<span class="verticalbar">|</span></div><div class="cell" data-nb="115876" style="font-weight: normal; padding-left:0px"><span onclick="show_prod('115876','','en')" style="font-weight: bold;cursor: pointer">Rigoletto</span><span class="verticalbar">|</span>Verdi</div></div></div><div class="ven_result result_continent" id="content_115876"></div><div class="companies_work_bordered"><div class="row"><div class="cell" style="width: 20px"></div>
+
+<div class="cell perdate_cell" style="font-weight: normal; min-width: 70px">Jul-Aug 2019<span class="verticalbar">|</span>5<span class="verticalbar">|</span></div><div class="cell" data-nb="115880" style="font-weight: normal; padding-left:0px">
+<span onclick="show_prod('115880','','en')" style="font-weight: bold;cursor: pointer">Requiem</span>
+<span class="verticalbar">|</span>Verdi</div></div></div><div class="ven_result result_continent" id="content_115880"></div><div class="companies_work_bordered"><div class="row">
+<div class="cell" style="width: 20px">
+
+<img alt="New production" src="/ressources/pix/icons/newprod.png" style="width: 20px; " title="New production"/></div><
+
+div class="cell perdate_cell" style="font-weight: normal; min-width: 70px">Aug 2019<span class="verticalbar">|</span>4<span class="verticalbar">|</span></div>
+<div class="cell" data-nb="115879" style="font-weight: normal; padding-left:0px">
+<span onclick="show_prod('115879','','en')" style="font-weight: bold;cursor: pointer">Eugen Onegin <span style="font-weight: normal">(<i>Yevgeny Onegin</i>)</span></span><span class="verticalbar">|</span>Tchaikovsky,P</div></div></div><div class="ven_result result_continent" id="content_115879"></div></div>
+
+
+
+Bregenz
+
+Rigoletto
+data-nb:115876
+
+Requiem
+data-nb:115880
+
+Eugen Onegin
+data-nb:115879
+
+https://www.google.com/flights/#flt=/m/05qtj.MAD.2019-08-20*MAD./m/05qtj.2019-08-25;c:EUR;e:1;s:0*0;dt:1800-2400;at:1200-2400;sd:1;t:f
+
+
+
+
+
+https://www.operabase.com/ressources/views/country/select_country_city.php?lang=en&term=belf
